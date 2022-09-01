@@ -4,6 +4,9 @@ Education🌱
 <br> I majored in Math Education, Korea National University of Education(2011~2015)
 <br> And I’m currently learning computer-programming in SSAFY(Samsung SW Academy For Youth 8th, 2022.07-)
 
+Interest🔭
+<br>Backend Engineering, Cloud Computing
+
 <h3 align="center">Tech Stacks</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
