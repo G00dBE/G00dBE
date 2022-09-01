@@ -1,9 +1,8 @@
-### Hi there 👋
-🌱 I’m currently learning computer-programming in SSAFY
-<br> I majored in Math Education, Korea National University of Education
+### Hi there 👋 I'm Eunbee Cho!
 
-
-![G00dBE's GitHub stats](https://github-readme-stats.vercel.app/api?username=G00dBE&show_icons=true&theme=radical)
+Education🌱
+<br> I majored in Math Education, Korea National University of Education(2011~2015)
+<br> And I’m currently learning computer-programming in SSAFY(Samsung SW Academy For Youth 8th, 2022.07-)
 
 <h3 align="center">Tech Stacks</h3>
 <p align="center">
@@ -17,8 +16,11 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
-
 </p>
+
+![G00dBE's GitHub stats](https://github-readme-stats.vercel.app/api?username=G00dBE&show_icons=true&theme=radical)
+
+
 <!--
 **G00dBE/G00dBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
