@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Eunbee Cho!
+### Hi there 👋 
 
 Education🌱
 <br> I majored in Math Education, Korea National University of Education(2011~2015)
