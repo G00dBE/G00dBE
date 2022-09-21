@@ -22,6 +22,8 @@ Interest🔭
 </p>
 
 ![G00dBE's GitHub stats](https://github-readme-stats.vercel.app/api?username=G00dBE&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mathcom)](https://solved.ac/mathcom/)
+
 
 
 <!--
