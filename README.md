@@ -5,7 +5,7 @@ Education🌱
 <br> And I’m currently learning computer-programming in SSAFY(Samsung SW Academy For Youth 8th, 2022.07-)
 
 Interest🔭
-<br>Backend Engineering, Cloud Computing
+<br>Backend Engineering,A.I., Big Data, Cloud Computing
 
 <h3 align="center">Tech Stacks</h3>
 <p align="center">
